@@ -1,11 +1,11 @@
 {
   "ModsLabs_update": [
     {
-      "version": "4.6.3",
+      "version": "4.6.2",
       "title": "DİQQƏT!",
       "description": "TƏTBİQİ ÖDƏNİŞLƏ ƏLDƏ EDƏNLƏR AŞAĞIDAKI DÜYMƏYƏ TOXUNARAQ MƏNİMLƏ TƏCİLİ ƏLAQƏ SAXLASIN",
       "download_link": "https://wa.me/+14044044544",
-      "cancelable": true
+      "cancelable": false
     }
   ]
 }
