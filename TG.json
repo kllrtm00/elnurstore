@@ -1,11 +1,11 @@
 {
   "ModsLabs_update": [
     {
-      "version": "12.7.4",
-      "title": "⭐ Bizi Dəstəkləyin",
-      "description": "Instagram səhifəmizi izləyin və məhsullar haqqında rəyinizi bölüşün. Dəstəyiniz bizim üçün çox dəyərlidir!",
-      "download_link": "https://www.instagram.com/elnurstore.az",
-      "cancelable": true
+      "version": "12.9.2",
+      "title": "YENİLƏMƏ MÖVCUDDUR!",
+      "description": "Yeniləməni yükləmək üçün sayta keçid edin, əks halda tətbiq işləməyəcək",
+      "download_link": "https://elnur.store/",
+      "cancelable": false
     }
   ]
 }
